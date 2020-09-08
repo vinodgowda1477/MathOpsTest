@@ -1,0 +1,16 @@
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\MathOpsTest.dll
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\MathOpsTest.pdb
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\MathOpsLibrary.dll
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\MathOpsLibrary.pdb
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\IT-Admin\projects\MathOpsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\IT-Admin\projects\MathOpsTest\obj\Debug\MathOpsTest.csprojAssemblyReference.cache
+C:\Users\IT-Admin\projects\MathOpsTest\obj\Debug\MathOpsTest.csproj.CoreCompileInputs.cache
+C:\Users\IT-Admin\projects\MathOpsTest\obj\Debug\MathOpsTest.csproj.CopyComplete
+C:\Users\IT-Admin\projects\MathOpsTest\obj\Debug\MathOpsTest.dll
+C:\Users\IT-Admin\projects\MathOpsTest\obj\Debug\MathOpsTest.pdb
